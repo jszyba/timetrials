@@ -1,0 +1,54 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+.body {
+  margin: 20px 10px;
+}
+
+.row-item {
+  margin-top: 2px;
+}
+
+.row-item:hover {
+  opacity: 0.3;
+}
+
+.angular {
+  background-color: rgba(0, 183, 255, 0.50);
+}
+
+.react {
+  background-color: rgba(65, 150, 65, 0.50);
+}
+
+.knockout {
+  background-color: rgba(255, 44, 33, 0.5);
+}
+
+.vue {
+  background-color: rgba(255, 191, 24, 0.5);
+}
+
+.jquery {
+  background-color: rgba(255, 16, 143, 0.5);
+}
+
+.raw {
+  background-color: rgba(4, 0, 255, 0.5);
+}
+
+.load {
+  text-align: center;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.load-time {
+  float: right;
+}

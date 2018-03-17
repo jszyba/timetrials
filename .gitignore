@@ -1,0 +1,10 @@
+#.idea/
+#npm-debug.*
+#*.js.map
+.idea/
+build/
+build.old/
+*/node_modules/
+CheckReturn.pdf
+demo.docx
+*/npm-debug*
